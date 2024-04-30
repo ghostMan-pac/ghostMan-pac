@@ -4,7 +4,7 @@ I'm Asif. I like to be part of the community and be of help as and where I can. 
 
 Skills: C / Linux
 
-- Currently learning different frameworks like gstreamer, pytorch
+- Currently learning different frameworks like gstreamer, pytorch etc.,
 - Slowly falling in love with python
 
 

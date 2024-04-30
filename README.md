@@ -4,7 +4,8 @@ I'm Asif. I like to be part of the community and be of help as and where I can. 
 
 Skills: C / Linux
 
-- 🤔 I’m looking for help with choosing where to start. Any pointers are most welcome. 
+- Currently learning different frameworks like gstreamer, pytorch
+- ALso starting dabble a bit in python as well
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/just_asif_p)  

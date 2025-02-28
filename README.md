@@ -5,7 +5,7 @@ I'm Asif. I like to be part of the community and be of help as and where I can. 
 Skills: C / Linux
 
 - Currently learning different frameworks like gstreamer, pytorch etc.,
-- Slowly falling in love with python
+- Slowly falling in love with zephyr
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/just_asif_p)  

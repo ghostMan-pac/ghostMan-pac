@@ -1,10 +1,22 @@
-### Hi there 👋, I'm Asif
-#### Design and Development
-I'm Asif. I like to be part of the community and be of help as and where I can. I normally dabble in C as I am working in the system programming side. Just starting out in the open source world.
+### 👋 Hi, I'm Asif  
+#### 🔧 System Programming | 💻 Embedded Development | 🌐 Open Source Enthusiast
 
-Skills: C / Linux
+I'm a systems programmer who loves diving deep into C, Linux, and real-time operating systems like **Zephyr**. I’m passionate about contributing to the community and learning as I go. I'm just starting my journey in open source, and always looking for ways to grow and help others.
 
-- Slowly falling in love with Zephyr 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/just_asif_p)  
+### 🛠️ **Skills & Interests**
+- 💡 **Programming:** C  
+- 🖥️ **Operating Systems:** Linux  
+- ⏱️ **RTOS:** Zephyr  
+- 🔍 Always exploring low-level systems and embedded development
 
+---
+
+### 🚀 **Currently Working On**
+- Driver development for **Zephyr RTOS**
+
+---
+
+### 📬 Let's Connect
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" height="30" style="vertical-align:middle;">](https://twitter.com/just_asif_p) [**@just_asif_p**](https://twitter.com/just_asif_p)

@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Asif  
 #### 🔧 System Programming | 💻 Embedded Development | 🌐 Open Source Enthusiast
 
-I'm a systems programmer who loves diving deep into C, Linux, and real-time operating systems like **Zephyr**. I’m passionate about contributing to the community and learning as I go. I'm just starting my journey in open source, and always looking for ways to grow and help others.
+I'm a systems programmer who loves diving deep into C, Linux, and **Zephyr RTOS**. I’m passionate about contributing to the community and learning as I go. I'm just starting my journey in open source, and always looking for ways to grow and help others.
 
 ---
 

@@ -1,22 +1,25 @@
 ### 👋 Hi, I'm Asif  
-#### 🔧 System Programming | 💻 Embedded Development | 🌐 Open Source Enthusiast
+#### 🔧 Systems Programming | 💻 Embedded Development | 🌐 Zephyr RTOS Contributor | 💡 LED Blink Enthusiast
 
-I'm a systems programmer who loves diving deep into C, Linux, and **Zephyr RTOS**. I’m passionate about contributing to the community and learning as I go. I'm just starting my journey in open source, and always looking for ways to grow and help others.
+Systems programmer focused on C, Linux, and embedded systems.
 
----
-
-### 🛠️ **Skills & Interests**
-- 💡 **Programming:** C  
-- 🖥️ **Operating Systems:** Linux  
-- ⏱️ **RTOS:** Zephyr  
-- 🔍 Always exploring low-level systems and embedded development
+Contributor to the Zephyr Project, adding device drivers and board support packages through both personal and corporate GitHub identities. Passionate about low-level architecture, RTOS internals, and hardware enablement.
 
 ---
 
-### 🚀 **Currently Working On**
-- Driver development for **Zephyr RTOS**
+### 🛠️ Skills & Focus
+- 💡 C programming
+- 🖥️ Linux systems
+- ⏱️ Zephyr RTOS
+- 🔌 Driver development
+- 📟 Board bring-up & hardware enablement
 
 ---
 
-### 📬 Let's Connect
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" height="30" style="vertical-align:middle;">](https://twitter.com/just_asif_p) [**@just_asif_p**](https://twitter.com/just_asif_p)
+### 🚀 Open Source Contributions
+- Upstream device drivers
+- Board support packages (BSP)
+- Tooling and system-level improvements
+
+🔹 Zephyr Contributions (Corporate):
+https://github.com/zephyrproject-rtos/zephyr/pulls?q=author:mchp-asif
